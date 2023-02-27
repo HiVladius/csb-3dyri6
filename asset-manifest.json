@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hivladius.github.io/csb-3dyri6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hivladius.github.io/csb-3dyri6/static/js/main.2b6c3a8a.chunk.js",
+    "main.js.map": "https://hivladius.github.io/csb-3dyri6/static/js/main.2b6c3a8a.chunk.js.map",
+    "runtime-main.js": "https://hivladius.github.io/csb-3dyri6/static/js/runtime-main.f20fc4f2.js",
+    "runtime-main.js.map": "https://hivladius.github.io/csb-3dyri6/static/js/runtime-main.f20fc4f2.js.map",
+    "static/js/2.81daf36f.chunk.js": "https://hivladius.github.io/csb-3dyri6/static/js/2.81daf36f.chunk.js",
+    "static/js/2.81daf36f.chunk.js.map": "https://hivladius.github.io/csb-3dyri6/static/js/2.81daf36f.chunk.js.map",
+    "index.html": "https://hivladius.github.io/csb-3dyri6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hivladius.github.io/csb-3dyri6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.81daf36f.chunk.js.LICENSE.txt": "https://hivladius.github.io/csb-3dyri6/static/js/2.81daf36f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20fc4f2.js",
+    "static/js/2.81daf36f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2b6c3a8a.chunk.js"
+  ]
+}
